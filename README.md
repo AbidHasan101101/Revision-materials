@@ -68,7 +68,3 @@ Transcribed verbatim across all 7 subjects (151 default chapters, 906 milestones
 
 ---
 
-## 🌐 How to Deploy (Free)
-1. **GitHub Pages**: Push this folder to a GitHub repository and turn on GitHub Pages under Settings > Pages (HTTPS is automatic!).
-2. **Netlify Drop**: Drag and drop the `hsc-revision-tracker` folder directly into [Netlify Drop](https://app.netlify.com/drop) for instant live HTTPS hosting.
-3. **Vercel**: Deploy directly via `vercel deploy`.
